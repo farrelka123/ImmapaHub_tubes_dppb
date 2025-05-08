@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '../main.dart'; // Pastikan path import sesuai lokasi MainPage.dart
-
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});
 
